@@ -1,0 +1,2 @@
+# Jinx-blog-release
+JINXBLOG
